@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "swiper": "^8.4.5",
+    "vue-custom-scrollbar": "^1.4.4",
+    "vue-horizontal-scroll": "^0.2.4"
+  },
+  "devDependencies": {
+    "tailwind-scrollbar": "^2.0.1"
+  }
+}

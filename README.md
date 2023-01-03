@@ -1,4 +1,3 @@
-# C-RDG-160-REM-1-1-yowl-benoit.dedicker
 
 ## Introduction
 
